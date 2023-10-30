@@ -1,0 +1,54 @@
+2023-10-29 15:34:19,395 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ServletInitializer using Java 17.0.8 on DESKTOP-NVJLB4S with PID 23380 (D:\intellij-workspace\telegraph-telegraph_desktop-backend-main\target\classes started by PC in D:\intellij-workspace\telegraph-telegraph_desktop-backend-main)
+2023-10-29 15:34:19,416 INFO o.s.b.SpringApplication [restartedMain] The following profiles are active: dev
+2023-10-29 15:34:19,560 INFO o.s.b.l.DeferredLog [restartedMain] The Class-Path manifest attribute in C:\Users\PC\.m2\repository\com\oracle\database\jdbc\ojdbc8\21.1.0.0\ojdbc8-21.1.0.0.jar referenced one or more files that do not exist: file:/C:/Users/PC/.m2/repository/com/oracle/database/jdbc/ojdbc8/21.1.0.0/oraclepki.jar
+2023-10-29 15:34:19,565 INFO o.s.b.l.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-29 15:34:19,566 INFO o.s.b.l.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-29 15:34:21,003 INFO o.s.d.r.c.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-10-29 15:34:21,303 INFO o.s.d.r.c.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 281 ms. Found 36 JPA repository interfaces.
+2023-10-29 15:34:22,376 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$cce6be01] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-10-29 15:34:22,447 INFO o.s.w.s.a.s.AbstractAddressingEndpointMapping [restartedMain] Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-10-29 15:34:22,524 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@64712db3' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-10-29 15:34:22,539 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-10-29 15:34:23,114 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-10-29 15:34:23,128 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-29 15:34:23,129 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-10-29 15:34:23,129 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-10-29 15:34:23,313 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-10-29 15:34:23,314 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3746 ms
+2023-10-29 15:34:23,797 INFO o.h.j.i.u.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 15:34:23,900 INFO o.h.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.32.Final
+2023-10-29 15:34:24,176 INFO o.h.a.c.r.j.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 15:34:24,374 INFO c.z.h.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-10-29 15:34:25,833 INFO c.z.h.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-10-29 15:34:25,853 INFO o.h.d.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2023-10-29 15:34:28,523 WARN o.h.m.RootClass [restartedMain] HHH000038: Composite-id class does not override equals(): tgh.desktop.models.Tarrif_ADD_ID
+2023-10-29 15:34:28,523 WARN o.h.m.RootClass [restartedMain] HHH000039: Composite-id class does not override hashCode(): tgh.desktop.models.Tarrif_ADD_ID
+2023-10-29 15:34:28,526 WARN o.h.m.RootClass [restartedMain] HHH000038: Composite-id class does not override equals(): tgh.desktop.models.ID_Counrty_Plan
+2023-10-29 15:34:28,527 WARN o.h.m.RootClass [restartedMain] HHH000039: Composite-id class does not override hashCode(): tgh.desktop.models.ID_Counrty_Plan
+2023-10-29 15:34:29,601 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 15:34:29,615 INFO o.s.o.j.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-10-29 15:34:30,690 INFO o.s.s.w.a.p.j.WebXmlMappableAttributesRetriever [restartedMain] Retrieved role-name 'ROLE_USER' from web.xml
+2023-10-29 15:34:33,587 INFO o.s.s.w.DefaultSecurityFilterChain [restartedMain] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@e1467fa, org.springframework.security.web.context.SecurityContextPersistenceFilter@64728f1c, org.springframework.security.web.header.HeaderWriterFilter@65ad19b3, org.springframework.web.filter.CorsFilter@24a70a6a, org.springframework.security.web.authentication.logout.LogoutFilter@639a2f6d, tgh.desktop.security.AuthTokenFilter@1d956513, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@642d7f35, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@b8266fe, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@d3a2586, org.springframework.security.web.session.SessionManagementFilter@3b41a639, org.springframework.security.web.access.ExceptionTranslationFilter@2b992b22, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@327b353f]
+2023-10-29 15:34:33,622 INFO s.d.s.w.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-10-29 15:34:33,837 INFO o.s.b.d.a.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-10-29 15:34:33,898 INFO o.s.b.a.w.s.WelcomePageHandlerMapping [restartedMain] Adding welcome page: class path resource [public/index.html]
+2023-10-29 15:34:35,391 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-10-29 15:34:35,430 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-29 15:34:35,432 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2023-10-29 15:34:35,463 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2023-10-29 15:34:35,505 INFO s.d.s.w.s.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2023-10-29 15:34:35,823 INFO s.d.s.w.r.o.CachingOperationNameGenerator [restartedMain] Generating unique operation named: searchUsingPOST_1
+2023-10-29 15:34:35,842 INFO s.d.s.w.r.o.CachingOperationNameGenerator [restartedMain] Generating unique operation named: getPlansUsingGET_1
+2023-10-29 15:34:35,848 INFO s.d.s.w.r.o.CachingOperationNameGenerator [restartedMain] Generating unique operation named: openapiJsonUsingGET_1
+2023-10-29 15:34:35,966 INFO s.d.s.w.r.o.CachingOperationNameGenerator [restartedMain] Generating unique operation named: printCalculateCostUsingPOST_1
+2023-10-29 15:34:36,007 INFO o.s.b.StartupInfoLogger [restartedMain] Started ServletInitializer in 17.234 seconds (JVM running for 18.715)
+2023-10-29 15:34:40,948 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-29 15:34:40,948 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2023-10-29 15:34:40,950 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2023-10-29 15:34:41,254 DEBUG o.h.e.j.s.SqlStatementLogger [http-nio-8080-exec-2] select count(tgh_id)from TGH_TELEGRAPH where status_code = 2 and OFFICE_CODE= ?
+2023-10-29 15:34:41,768 TRACE o.h.t.d.s.BasicBinder [http-nio-8080-exec-2] binding parameter [1] as [VARCHAR] - [AEC]
+2023-10-29 15:34:41,801 TRACE o.h.t.d.s.BasicExtractor [http-nio-8080-exec-2] extracted value ([COUNT(TGH_ID)] : [NUMERIC]) - [5]
+2023-10-29 16:59:20,614 WARN c.z.h.p.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m53s642ms877µs401ns).
+2023-10-29 17:24:20,188 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-10-29 17:24:20,194 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-10-29 17:24:20,301 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.

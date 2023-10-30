@@ -1,0 +1,162 @@
+{
+  "loginForm": {
+    "username": "اسم المستخدم",
+    "password": "كلمة السر",
+    "login": "تسجيل الدخول",
+    "validateUser": "اسم المستخدم مطلوب",
+    "validatePass": "كلمة السر مطلوبة"
+  },
+  "header": {
+    "lang": {
+      "title": "اللغة",
+      "ar": "اللغة العربية",
+      "en": "اللغة الانجليزية"
+    },
+    "changePassword": "تغيير كلمة السر",
+    "logOut": "تسجيل خروج",
+    "changePasswordForm": {
+      "oldPass": " كلمة السر القديمة ",
+      "newPass": "كلمة السر الجديدة",
+      "confirmPass": " تأكيد كلمة السر",
+      "save": "حفظ",
+      "cancel": " الغاء",
+      "validationError": {
+        "oldPass": "كلمة السر القديمة مطلوبة",
+        "newPass": "كلمة السر الجديدة مطلوبة",
+        "confirmPass": " تأكيد كلمة السر مطلوب ",
+        "matchConfirm": "يجب أن يكون تأكيد كلمة السر مطابق لكلمة السر الجديدة"
+      }
+    }
+  },
+  "sideBar": {
+    "home": "الرئيسية",
+    "composer": "البرقيات",
+    "archive": "الأرشيف",
+    "out":"صادر",
+    "in":"وارد",
+    "costplan":"خطة الأسعار"
+  },
+  "composer": {
+    "header": {
+      "dailyReportBtn": "التقرير اليومي",
+      "lineInfoBtn": "معلومات الخط",
+      "calculateCostBtn": "حساب التكلفة",
+      "getDraftsBtn": "المسودات",
+      "newComposer": "تلجراف جديد",
+      "finish": "انشاء",
+      "saveDraft": "حفظ كمسودة",
+      "dailyReport": {
+        "title": "بحث عن تقرير يومي",
+        "dateFrom": "من تاريخ",
+        "dateTo": "الى تاريخ",
+        "user": "المستخدم",
+        "search": "بحث",
+        "close": "اغلاق"
+      },
+      "lineInfo": {
+        "title": "معلومات خط التليفون",
+        "availableCredit": "الرصيد المتاح",
+        "paidMode": "طريقة الدفع",
+        "status": "حالة الخط"
+      },
+      "getDrafts": {
+        "title": "البرقيات المحفوظة",
+        "telNo": "رقم التليفون",
+        "userCode": "المستخدم",
+        "copyMsgContent": "نسخ تفاصيل الرسالة",
+        "copyRec": "نسخ المرسل اليهم",
+        "copySenders": "نسخ الراسلين",
+        "genId": "رقم البرقية",
+        "user": "المستخدم",
+        "billTel": "رقم للدفع",
+        "msg": "الرسالة",
+        "draftDate": "تاريخ البرقية",
+        "callDate": "تاريخ المكالمة",
+        "callerName": "اسم المتصل",
+        "notes": "ملاحظات",
+        "open": "اختيار",
+        "close": "اغلاق"
+      },
+      "calculateCost": {
+        "title": "تفاصيل حساب التكلفة",
+        "officeName": "اسم المكتب",
+        "date": "التاريخ",
+        "time": "الوقت",
+        "wordPrice": "سعر الكلمة",
+        "constantPrice": "سعر ثابت",
+        "planName": "خطة الأسعار",
+        "totalCost": "اجمالي التكلفة",
+        "addedPrice": "تكلفة مضافة",
+        "urgentPrice": "تكلفة طوارئ",
+        "templatePrice": "تكلفة النموذج",
+        "decorationPrice": "تكلفة الزخرفة",
+        "smsPrice": "تكلفة الرسالة النصية",
+        "deliveryPrice": "تكلفة التوصيل",
+        "recepient": "المرسل اليه",
+        "address": "العنوان",
+        "costOfExtraName": "تكلفة المرسل اليه الاضافي",
+        "numberOfExtras": "عدد المرسل اليهم المضافين",
+        "numberOfWords": "عدد الكلمات الفعلي",
+        "wordCount": "عدد كلمات الشريحة",
+        "postalOfficePrice": "تكلفة صندوق البريد",
+        "salesTax": "ضريبة المبيعات",
+        "various": "متنوعات",
+        "vipCost": "تكلفة المميز",
+        "msgCost": "تكلفة الرسالة",
+        "msgCostByFees": "تكلفة الرسالة الاجمالية",
+        "printCost": "طباعة التكلفة"
+      }
+
+    },
+    "tghDetails": {
+      "title": "تفاصيل التلجراف",
+      "id": "رقم المحرر",
+      "user": "الموظف",
+      "userCode": "كود الموظف",
+      "originOffice": "المكتب",
+      "callDate": "التاريخ",
+      "billTel": "رقم للدفع",
+      "telNo": "التليفون",
+      "callerName": "اسم المتصل",
+      "admin": "إداري",
+      "plan": "خطة الأسعار",
+      "sendDate": "تاريخ الإرسال",
+      "notes": "ملاحظات",
+      "langCode": "اللغة",
+      "internationalInfo": {
+        "international": "دولي",
+        "country": "الدولة"
+      }
+    },
+    "recepients": {
+      "title": "المرسل اليهم",
+      "vip": "VIPPP",
+      "vipList": "VIP List",
+      "recName": "Rec Name",
+      "extraRec": "Extra Rec",
+      "city": "City",
+      "address": "Address",
+      "officeName": "Office Name",
+      "addressDetails": "Address Details",
+      "postalOffice": "Postal Office",
+      "telNo": "Tel No.",
+      "extraFees": "Extra Fees",
+      "senderResp": "Sender Responsibility",
+      "addRec": "اضافة مرسل اليه"
+    },
+    "messageDetails": {
+      "title": "الرسالة",
+      "template": "نموذج",
+      "templateType": "نوع النموذج",
+      "msgType": "نوع الرسالة",
+      "decoration": "زخرفة",
+      "deliveryNotice": "علم الوصول",
+      "paidReply": "رد خالص",
+      "sms": "تفعيل الرسالة"
+    },
+    "senders": {
+      "title": "الراسل",
+      "addSender": "اضافة راسل"
+    }
+  }
+}

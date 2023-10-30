@@ -1,0 +1,35 @@
+[
+  {
+    "vip": false,
+    "name": "Ahmed Tarek 1",
+    "extraRecepient": "Ahmed 1",
+    "city": "Cairo 1",
+    "address": "11 manshyt esmat street, ain shams, main ain shams st",
+    "postalOffice": "postal office name 1",
+    "officeName": "office name 1",
+    "telNo": "01121171196 1",
+    "senderResponsibility": false
+  },
+  {
+    "vip": false,
+    "name": "Ahmed Tarek 2",
+    "extraRecepient": "Ahmed 2",
+    "city": "Cairo 2",
+    "address": "11 manshyt esmat street, ain shams, main ain shams st",
+    "postalOffice": "postal office name 2",
+    "officeName": "office name 2",
+    "telNo": "01121171196 2",
+    "senderResponsibility": false
+  },
+  {
+    "vip": false,
+    "name": "Ahmed Tarek 3",
+    "extraRecepient": "Ahmed 3",
+    "city": "Cairo 3",
+    "address": "11 manshyt esmat street, ain shams, main ain shams st",
+    "postalOffice": "postal office name 3",
+    "officeName": "office name 3",
+    "telNo": "01121171196 3",
+    "senderResponsibility": true
+  }
+]

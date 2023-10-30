@@ -1,0 +1,164 @@
+{
+  "loginForm": {
+    "username": "User Name",
+    "password": "Password",
+    "login": "Login",
+    "validateUser": "User name is required",
+    "validatePass": "Password is required"
+  },
+  "header": {
+    "lang": {
+      "title": "Lang",
+      "ar": "ar",
+      "en": "en"
+    },
+    "changePassword": "Change password",
+    "logOut": "Log out",
+    "changePasswordForm": {
+      "oldPass": "Old password",
+      "newPass": "New password",
+      "confirmPass": "Confirm password",
+      "save": "Save",
+      "cancel": "Cancel",
+      "validationError": {
+        "oldPass": "Old password is required",
+        "newPass": "New password is required",
+        "confirmPass": "Confirm password is required",
+        "matchConfirm": "New password doesn't match with confirm password"
+      }
+    }
+  },
+  "sideBar": {
+    "home": "Home",
+    "composer": "Composer",
+    "archive": "Archive",
+    "queue": "Queue",
+    "costplan": "Cost Plan",
+    "telegraphAndArchieve": "Telegraph&Archieve",
+    "statistics": "Statistics",
+    "out": "out",
+    "in": "in"
+  },
+  "composer": {
+    "header": {
+      "dailyReportBtn": "Daily Report",
+      "lineInfoBtn": "Line Info",
+      "calculateCostBtn": "Calculate Cost",
+      "getDraftsBtn": "Get Drafts",
+      "newComposer": "New Composer",
+      "finish": "Finish",
+      "saveDraft": "Save Draft",
+      "dailyReport": {
+        "title": "Search Daily Report",
+        "dateFrom": "Date From",
+        "dateTo": "Date To",
+        "user": "User",
+        "search": "Search",
+        "close": "Close"
+      },
+      "lineInfo": {
+        "title": "Line Info",
+        "availableCredit": "Available credit",
+        "paidMode": "Paid Mode",
+        "status": "Status"
+      },
+      "getDrafts": {
+        "title": "All Drafts",
+        "telNo": "Tel No",
+        "userCode": "User Code",
+        "copyMsgContent": "Copy MSG Content",
+        "copyRec": "Copy Recepients",
+        "copySenders": "Copy Senders",
+        "genId": "Gen ID",
+        "user": "User Code",
+        "billTel": "Bill Tel No",
+        "msg": "Message",
+        "draftDate": "Draft Date",
+        "callDate": "Call Date",
+        "callerName": "Caller Name",
+        "notes": "Notes",
+        "open": "Open",
+        "close": "Close"
+      },
+      "calculateCost": {
+        "title": "Cost Details",
+        "officeName": "Office Name",
+        "date": "Date",
+        "time": "Time",
+        "wordPrice": "Word Price",
+        "constantPrice": "Constant Price",
+        "planName": "Plan Name",
+        "totalCost": "Total Cost",
+        "addedPrice": "Added Price",
+        "urgentPrice": "Urgent Price",
+        "templatePrice": "Template Price",
+        "decorationPrice": "Decoration Price",
+        "smsPrice": "SMS Price",
+        "deliveryPrice": "Delivery Price",
+        "recepient": "Recepient",
+        "address": "Address",
+        "costOfExtraName": "Cost of extra name",
+        "numberOfExtras": "Number of extra name",
+        "numberOfWords": "Number of words",
+        "postalOfficePrice": "Postal office price",
+        "salesTax": "Sales Tax",
+        "various": "Various",
+        "vipCost": "VIP Cost",
+        "msgCost": "Message Cost",
+        "msgCostByFees": "Message cost by fees",
+        "printCost": "Print Cost",
+        "wordCount":" word Count"
+      }
+    },
+    "tghDetails": {
+      "title": "Telegraph Details",
+      "id": "Gen Id",
+      "user": "User",
+      "userCode": "User Code",
+      "originOffice": "Origin Office",
+      "callDate": "Call Date",
+      "billTel": "Bill Tel No",
+      "telNo": "Tel No",
+      "callerName": "Caller Name",
+      "admin": "Admin",
+      "plan": "Plan",
+      "sendDate": "Send Date",
+      "notes": "Notes",
+      "langCode": "Language",
+      "internationalInfo": {
+        "international": "International",
+        "country": "Country"
+      }
+    },
+    "recepients": {
+      "title": "Recepients",
+      "vip": "VIPPP",
+      "vipList": "VIP List",
+      "recName": "Rec Name",
+      "extraRec": "Extra Rec",
+      "city": "City",
+      "address": "Address",
+      "officeName": "Office Name",
+      "addressDetails": "Address Details",
+      "postalOffice": "Postal Office",
+      "telNo": "Tel No.",
+      "extraFees": "Extra Fees",
+      "senderResp": "Sender Responsibility",
+      "addRec": "Add Recepient"
+    },
+    "messageDetails": {
+      "title": "Message",
+      "template": "Template",
+      "templateType": "Template Type",
+      "msgType": "Message Type",
+      "decoration": "Decoration",
+      "deliveryNotice": "Delivery Notice",
+      "paidReply": "Paid Reply",
+      "sms": "SMS"
+    },
+    "senders": {
+      "title": "Senders",
+      "addSender": "Add Sender"
+    }
+  }
+}
